@@ -1,0 +1,16 @@
+# Ignore build artifacts and editor files
+build/
+*.o
+*.a
+*.so
+*.log
+simpleServer
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Docker for now 
+/.dockerignore
